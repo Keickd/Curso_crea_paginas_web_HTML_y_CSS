@@ -1,0 +1,30 @@
+body{
+    margin: 30px;
+    padding: 0px;
+    background-color: #ffffff;
+    color: #000000;
+    font-family:  'Courier New', Courier, monospace
+}
+
+table{
+    border: solid 1px;
+    padding: 10px;
+}
+
+#name{
+    font-size: 30px;
+    
+}
+
+#studies{
+    font-size: 18px;
+}
+
+#mail{
+    font-size: 18px;
+    width: 320px;
+}
+
+.icon{
+    height: 35px;
+}
